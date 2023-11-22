@@ -25,6 +25,8 @@
         .contenedor2{
             height: 1000px;
             }
+        
+        
         .texto{
         
         font-size: 40px;
@@ -43,5 +45,45 @@
             float: right;
             position: absolute;
             color: white;
-            top: 410px;
+            top: 300px;
             }
+            .textotecno{
+                text-align: center;
+                color: white;
+                font-size: 20px;
+                }
+                .imagentecno{
+            
+             
+            
+                    background-repeat: no-repeat;
+                    
+                    float:left;
+                    
+                    height: 200px;
+                    
+                    width: 260px;
+                    
+                    margin-left: 5px;
+                    
+                    margin-right:5px;
+                    
+                    background-image: url(1fe11839-af69-4224-85e8-e0b6ebbb6349_900_900.jpg);
+                    
+                    }
+
+                    .contenido{
+
+                        height: 280px;
+                        width: 100%;
+                        float: right;
+                        position: absolute;
+                        color: white;
+                        top: 300px;
+                        }
+                    .textotecno2{
+                        text-align: center;
+                        color: white;
+                        font-size: 20px;
+                        }
+                    

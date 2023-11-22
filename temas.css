@@ -41,12 +41,15 @@
     height: 1200px;
     background-color: white;
     background-image: url(eebc1263bcf8808b1de67d79db8740fb.jpg);
+    color: white;
+    font-size: 15px;
 }
 .derecho{
 
     width: 20%;
     height: 1200px;
     background-color: rgb(93, 156, 80);
+    font-size: 20px;
 }
 .tecnologia{
     width: 100px;
