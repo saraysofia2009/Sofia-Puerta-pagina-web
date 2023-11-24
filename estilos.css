@@ -86,4 +86,36 @@
                         color: white;
                         font-size: 20px;
                         }
+                        .contenido{
+
+                            height: 280px;
+                            width: 100%;
+                            float: right;
+                            position: absolute;
+                            color: white;
+                            top: 300px;
+                            }
+                            .textoingles{
+                                text-align: left;
+                                color: white;
+                                font-size: 20px; }
+                                .imageningles{
+            
+             
+            
+                                    background-repeat: no-repeat;
+                                    
+                                    float:left;
+                                    
+                                    height: 560px;
+                                    
+                                    width: 736px;
+                                    
+                                    margin-left: 5px;
+                                    
+                                    margin-right:5px;
+                                    
+                                    background-image: url(11de90887f4c0f31f5cca677775300ea.jpg);
+                                    
+                                    }
                     
